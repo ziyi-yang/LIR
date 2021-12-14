@@ -14,13 +14,18 @@ LIR tests on [LAReQA](https://arxiv.org/abs/2004.05484) dataset. The folder xqua
 ## Cite LIR
 If you find LIR useful for you research, please cite our paper:
 ```bib
-@inproceedings{lir,
+@inproceedings{yang-etal-2021-simple,
     title = "A Simple and Effective Method To Eliminate the Self Language Bias in Multilingual Representations",
     author = "Yang, Ziyi  and
       Yang, Yinfei  and
       Cer, Daniel  and
       Darve, Eric",
-    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
     year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.470",
+    pages = "5825--5832",
 }
 ```
